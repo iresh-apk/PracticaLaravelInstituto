@@ -1,0 +1,14 @@
+﻿4f2e02a 2025-12-12 Actualizar README con documentacion completa del proyecto
+89d4d22 2025-12-12 Personalizar vistas de autenticacion login y register
+c78f6a8 2025-12-12 Configurar rutas publicas y protegidas con middleware de autenticacion
+617f052 2025-12-12 Implementar sistema de traducciones (i18n) con soporte para espanol e ingles
+941348e 2025-12-12 Mejorar componentes Blade: header, nav, footer y crear tarjeta reutilizable para dashboard
+8677bb0 2025-12-12 Crear paginas publicas: landing page, about, contacto, noticias y referencias
+9db7b9d 2025-12-12 Crear vistas Blade para CRUD de alumnos (index, create, edit, show)
+75ac87e 2025-12-12 Implementar controlador CRUD de alumnos con validaciones
+ce57c6a 2025-12-12 Agregar modelo y migracion de Alumno con seeder de datos iniciales
+242d612 2025-12-01 Commit Del DIa
+e52210c 2025-11-28 Readme changes y Script de ejecucion
+0ddaef3 2025-11-28 Actualizacion readme
+6266336 2025-11-28 Readme Personalizado
+4d93331 2025-11-28 Comiti Inicial
